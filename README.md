@@ -33,6 +33,9 @@ https://www.kaggle.com/code/h053473666/2class-infer-batch-20
 * nfnet_l0 (all) / 3  +  efficientnet_b3 (all) / 3  +  nfnet_l0 (other) / 3  
 之後用knn尋找相似商品，距離取0.3，當沒有找滿5個商品距離+0.1，直到找滿5個。  
 
+二元分類是我競賽時加的方法詳情可以看下面討論:  
+https://www.kaggle.com/competitions/shopee-product-matching/discussion/238021  
+
 arcface的實現部分可以參考這篇討論:  
 https://www.kaggle.com/competitions/shopee-product-matching/discussion/226279  
 
