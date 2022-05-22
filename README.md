@@ -40,6 +40,7 @@ arcface的實現部分可以參考這篇討論:
 https://www.kaggle.com/competitions/shopee-product-matching/discussion/226279  
 
 # 架構圖
+![架構](https://user-images.githubusercontent.com/37287974/169714533-010f1a30-a928-4f21-8129-3d739c8c73e4.png)
 
 
 
