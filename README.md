@@ -6,6 +6,11 @@
 先從蝦皮爬取資料和圖片(總共138000個商品)  
 用之前在打kaggle競賽模型(蝦皮舉辦的)預測每個商品的相似商品
 
+# 程式碼
+* 爬蟲: https://github.com/h053473666/shoppe_crawler_and_recommender_system/blob/main/shoppe/shopee-web-crawler.ipynb  
+* 下載圖片: https://github.com/h053473666/shoppe_crawler_and_recommender_system/blob/main/shoppe/shoppe-web-img-download-1.ipynb  
+* 模型預測: https://github.com/h053473666/shoppe_crawler_and_recommender_system/blob/main/shoppe/shoppe-web-infer.ipynb  
+
 # 競賽
 
 競賽網址: https://www.kaggle.com/competitions/shopee-product-matching  
